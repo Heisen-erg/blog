@@ -15,13 +15,13 @@ const Header = () => {
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav me-auto mb-2  mb-lg-0 pad ">
           <li class="nav-item">
-            <Link class="nav-link  font" aria-current="page" to="/Blogging" >HOME</Link>
+            <Link class="nav-link  font" aria-current="page" to="/" >HOME</Link>
           </li>
           <li class="nav-item">
-            <Link class="nav-link  font" aria-current="page" to="/Blogging/NEWS" >NEWS</Link>
+            <Link class="nav-link  font" aria-current="page" to="/News" >NEWS</Link>
           </li>
           <li class="nav-item">
-            <Link class="nav-link  font" aria-current="page" to="/Blogging/About" >ABOUT</Link>
+            <Link class="nav-link  font" aria-current="page" to="/About" >ABOUT</Link>
           </li>
           
         </ul>

@@ -21,9 +21,9 @@ function App() {
     <Router>
      
       <Routes>
-        <Route exact path="/Blogging" element={<Home/>}/>
-        <Route exact path="/Blogging/About" element={<About />} />
-        <Route exact path="/Blogging/News" element={<Newsapi/>} />
+        <Route exact path="/" element={<Home/>}/>
+        <Route exact path="/About" element={<About />} />
+        <Route exact path="/News" element={<Newsapi/>} />
       </Routes>
       
     </Router>
