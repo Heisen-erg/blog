@@ -1,0 +1,13 @@
+#but{
+    width: 7vh;
+    margin-left: 45vw;
+    
+    margin-bottom: 2vh;
+   background-color: rgb(154, 172, 187);
+}
+#fetch{
+    text-align: center;
+    padding-top: 5vh;
+    background: linear-gradient(to right,rgb(50, 47, 47),rgb(165, 158, 158));
+
+}

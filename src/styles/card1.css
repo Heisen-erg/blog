@@ -1,0 +1,88 @@
+@media screen and (max-width: 500px)
+{
+   
+#gilow{
+    font-size: 2px;
+    margin-top: -13vh;
+}
+#overflow{
+   width: 65vw;
+    margin-top: -13vh;
+    margin-left: 15vw;
+}
+
+
+
+
+   
+}
+
+
+
+
+
+
+*{
+    font-family: 'Dancing Script', cursive;}
+#colcnews{
+    margin-top: 150px;
+    
+   }
+#colc1news{
+    margin-top: 110px;
+    
+    
+}
+.row{
+    height: 550px;
+    background: linear-gradient(to right,rgb(50, 47, 47),rgb(165, 158, 158));
+   
+   
+}
+@keyframes glowing {
+    0% { color: #ef5d5d; text-shadow: 0 0 10px #510ce7; }
+    50% { color: rgb(95, 144, 168); text-shadow: 0 0 20px rgb(215, 215, 115); }
+    100% { color: #1bdcd8; text-shadow: 0 0 10px #ad6969; }
+}
+
+.glow-text {
+    font-size: 1rem;
+    animation: glowing1 3s infinite;
+}
+#gilow{
+    animation: glowing 3s infinite;
+    font-size: 2.5rem;
+font-weight: 900; 
+}
+#shade{
+    
+    border-radius: 20px;
+    transition: .3s;
+}
+#overflow1{
+    overflow: hidden;
+    border-radius: 20px 20px 20px 20px ;
+    margin-right: 125px;
+    box-shadow: 15px 15px 20px rgb(38, 36, 36); 
+    width: 550px ;
+    margin-left: 75px;
+    
+}
+
+#shade:hover {
+   
+    transform: scale(1.1);
+}
+@keyframes glowing1 {
+    0% { color: #6de37f; text-shadow: 0 0 10px #9c6767; }
+    50% { color: rgb(168, 124, 124); text-shadow: 0 0 20px rgb(138, 102, 228); }
+    100% { color: #4d3a4e; text-shadow: 0 0 10px #c56ee0; }
+}
+#sca{
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+#bt{
+    margin-top: 2%;
+}
+

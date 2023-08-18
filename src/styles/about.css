@@ -1,0 +1,16 @@
+.back{
+    background-color: rgb(71, 68, 64);
+    
+}
+p{
+    color: white ;
+}
+.col{
+    background-color: rgb(181, 211, 201);
+    color: rgb(16, 16, 16);
+}
+#bk{
+    background: linear-gradient(to right,rgb(50, 47, 47),rgb(165, 158, 158));
+    width: 100vw;
+    height: 100vh;
+}

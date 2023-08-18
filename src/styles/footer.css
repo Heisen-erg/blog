@@ -1,0 +1,33 @@
+@media screen and ( max-width:500px ) {
+    
+    
+    
+    .foooter{
+        height:7vh;
+    }
+
+
+
+
+
+}
+
+
+
+.foooter{
+   margin-top: 1px;
+   padding-top: 15px;
+    width: 100vw;  
+  display: flex;
+    height:12vh;
+    font-size: 15px;
+   background: linear-gradient(to right,rgb(50, 48, 48),rgb(126, 122, 122));
+   color: aliceblue;
+   align-items: center;
+   justify-content: center;
+   
+}
+p{
+    margin: 0;
+    padding: 0;
+}
