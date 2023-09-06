@@ -1,7 +1,7 @@
 @media screen and (max-width: 500px)
 {
    
-#gilow{
+#gilowt{
     font-size: 2px;
     margin-top: -13vh;
 }
@@ -23,7 +23,7 @@
 
 
 *{
-    font-family: 'Dancing Script', cursive;}
+    font-family: verdana;}
 #colcnews{
     margin-top: 150px;
     
@@ -46,12 +46,13 @@
 }
 
 .glow-text {
-    font-size: 1rem;
+    font-size: 15px;
     animation: glowing1 3s infinite;
 }
-#gilow{
-    animation: glowing 3s infinite;
-    font-size: 2.5rem;
+#gilowt{
+    color: orange;
+    opacity:0.4;
+    font-size: 30px;
 font-weight: 900; 
 }
 #shade{
@@ -84,5 +85,6 @@ font-weight: 900;
 }
 #bt{
     margin-top: 2%;
+    
 }
 

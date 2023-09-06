@@ -6,7 +6,7 @@ const Card1 = (props) => {
     <div className="container-fluid">
       <div className="row" id="media">
         <div className="col-sm-6 text-center" id="colcnews">
-          <h1 id="gilow">
+          <h1 id="gilowt">
             {props.title}...
           </h1>
           <p id="sca"> {props.tagline}... </p>
