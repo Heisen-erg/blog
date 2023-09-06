@@ -1,8 +1,12 @@
+body{
+    background:linear-gradient(to right,rgb(50, 47, 47),rgb(165, 158, 158));
+}
 #but{
     width: 5%;
     min-width:80px;
     margin-left: 45vw;
     font-size: 2vh;
+    margin-top:3vh;
     margin-bottom: 2vh;
    background-color: rgb(154, 172, 187);
 }

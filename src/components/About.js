@@ -17,7 +17,7 @@ const About = () => {
         </button>
       </h2>
       <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body back"><p> THIS WEBSITE IS MADE BY HAISENBERG </p></div>
+        <div class="accordion-body back"><p> THIS WEBSITE IS MADE BY HEISENBERG </p></div>
       </div>
     </div>
     <div class="accordion-item back">
@@ -27,7 +27,7 @@ const About = () => {
         </button>
       </h2>
       <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body "><p> EMAIL AT -  yoyobantairapper@gmail.com</p></div>
+        <div class="accordion-body "><p> EMAIL AT -  heisenberg.database.1@gmail.com</p></div>
       </div>
     </div>
     </div>
