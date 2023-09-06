@@ -5,7 +5,7 @@
     font-size: 2px;
     margin-top: -13vh;
 }
-#overflow{
+#overflow1{
    width: 65vw;
     margin-top: -13vh;
     margin-left: 15vw;
@@ -46,7 +46,7 @@
 }
 
 .glow-text {
-    font-size: 15px;
+    font-size: vhx;
     animation: glowing1 3s infinite;
 }
 #gilowt{
@@ -57,6 +57,7 @@ font-weight: 900;
 }
 #shade{
     
+
     border-radius: 20px;
     transition: .3s;
 }
@@ -65,8 +66,8 @@ font-weight: 900;
     border-radius: 20px 20px 20px 20px ;
     margin-right: 125px;
     box-shadow: 15px 15px 20px rgb(38, 36, 36); 
-    width: 550px ;
-    margin-left: 75px;
+    
+    margin-left: 65px;
     
 }
 

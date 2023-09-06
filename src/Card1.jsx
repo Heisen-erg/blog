@@ -15,7 +15,7 @@ const Card1 = (props) => {
           <p className="glow-text" >BLOG</p>
         </div>
         <div className="col-6 col-md-6" id="colc1news">
-          <div id="overflow1"> <img src={props.img} className="img-fluid" alt="IMAGE" id="shade" /> </div>
+          <div  id="overflow1"> <img src={props.img} className="img-fluid " alt="IMAGE" id="shade" /> </div>
           
         </div>
       </div>

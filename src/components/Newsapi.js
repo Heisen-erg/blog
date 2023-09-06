@@ -283,10 +283,10 @@ const Filtered = dota.filter((val) => {
 
 return (
 <>
-
+<div className='d-flex flex-column'>
     <h1 id='fetch' >CLICK THE BUTTON BELOW TO FETCH THE LATEST NEWS</h1>
-    <button onClick={News} id='but'> FETCH NEWS</button>
-    
+    <button onClick={News} className='align-self-center' id='but'> FETCH NEWS</button>
+    </div>
     {Filtered.map((value) => {
         return(<Card1 title={value.title.substring(0,70)}  tagline={value.description.substring(0,100)} img={value.urlToImage} url={value.url}  />)}) }
   
